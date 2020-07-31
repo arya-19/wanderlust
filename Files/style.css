@@ -1,0 +1,237 @@
+body {
+  overflow-x: hidden;
+}
+
+.navbar .nav-link {
+  font-size: 14px;
+  text-transform: uppercase;
+  padding-left: 1rem !important;
+  padding-right: 1rem !important;
+}
+
+.navbar .nav-item.active {
+  border-left: #444 3px solid;
+}
+
+.text-custom {
+  font-size: 15px;
+}
+
+#showcase .carousel-item {
+  height: 650px;
+}
+
+#showcase .carousel-image-1 {
+  background: url(./Images/image1.jpg);
+  background-size: cover;
+}
+
+#showcase .carousel-image-2 {
+  background: url(./Images/image2.jpg);
+  background-size: cover;
+}
+
+#showcase .carousel-image-3 {
+  background: url(./Images/image3.jpg);
+  background-size: cover;
+}
+
+#showcase .carousel-image-4 {
+  background: url(./Images/image4.jpg);
+  background-size: cover;
+}
+
+#showcase .carousel-image-5 {
+  background: url(./Images/image5.jpg);
+  background-size: cover;
+}
+
+#showcase .carousel-image-6 {
+  background: url(./Images/image6.jpg);
+  background-size: cover;
+}
+
+#showcasecircle .carousel-item {
+  height: 450px;
+}
+
+#showcasecircle .carousel-image-1 {
+  background: url(./Images/indiaimage1.jpg);
+  background-size: cover;
+  border-radius: 700px;
+}
+
+#showcasecircle .carousel-image-2 {
+  background: url(./Images/indiaimage2.jpg);
+  background-size: cover;
+  border-radius: 700px;
+}
+
+#showcasecircle .carousel-image-3 {
+  background: url(./Images/indiaimage3.jpg);
+  background-size: cover;
+  border-radius: 700px;
+}
+
+#showcasecircle .carousel-image-4 {
+  background: url(./Images/indiaimage4.jpg);
+  background-size: cover;
+  border-radius: 700px;
+}
+
+#showcasecircle .carousel-image-5 {
+  background: url(./Images/indiaimage5.jpg);
+  background-size: cover;
+  border-radius: 700px;
+}
+
+#showcasecircle .carousel-image-6 {
+  background: url(./Images/indiaimage6.jpg);
+  background-size: cover;
+  border-radius: 700px;
+}
+
+#showcaseround .carousel-item {
+  height: 450px;
+}
+
+#showcaseround .carousel-image-1 {
+  background: url(./Images/worldimage1.jpg);
+  background-size: cover;
+  border-radius: 700px;
+}
+
+#showcaseround .carousel-image-2 {
+  background: url(./Images/worldimage2.jpg);
+  background-size: cover;
+  border-radius: 700px;
+}
+
+#showcaseround .carousel-image-3 {
+  background: url(./Images/worldimage3.jpg);
+  background-size: cover;
+  border-radius: 700px;
+}
+
+#showcaseround .carousel-image-4 {
+  background: url(./Images/worldimage4.jpg);
+  background-size: cover;
+  border-radius: 700px;
+}
+
+#showcaseround .carousel-image-5 {
+  background: url(./Images/worldimage5.jpg);
+  background-size: cover;
+  border-radius: 700px;
+}
+
+#showcaseround .carousel-image-6 {
+  background: url(./Images/worldimage6.jpg);
+  background-size: cover;
+  border-radius: 700px;
+}
+
+#home-heading {
+  position: relative;
+  min-height: 250px;
+  background: url(./Images/bgimage1.jpg);
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  text-align: center;
+  color: #fff;
+}
+
+.dark-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.7);
+}
+
+#video-play {
+  position: relative;
+  min-height: 200px;
+  background: url(./Images/bgimage3.jpg);
+  background-position: 0 -300px;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  text-align: center;
+  color: #fff;
+}
+
+#video-play a {
+  color: #fff;
+}
+
+#page-header1 {
+  height: 350px;
+  background: url(./Images/bgimage4.jpg);
+  background-position: 0 -360px;
+  background-attachment: fixed;
+  background-size: cover;
+  color: #fff;
+  background-repeat: no-repeat;
+  border-bottom: 1px #eee solid;
+  padding-top: 50px;
+}
+
+#page-header2 {
+  height: 350px;
+  background: url(./Images/bgimage5.jpg);
+  background-position: 0 -360px;
+  background-attachment: fixed;
+  background-size: cover;
+  color: #fff;
+  background-repeat: no-repeat;
+  border-bottom: 1px #eee solid;
+  padding-top: 50px;
+}
+
+#page-header3 {
+  height: 275px;
+  background: url(./Images/bgimage6.jpg);
+  background-position: 0 -360px;
+  background-attachment: fixed;
+  background-size: cover;
+  color: #fff;
+  background-repeat: no-repeat;
+  border-bottom: 1px #eee solid;
+  padding-top: 50px;
+}
+
+#page-header4 {
+  height: 275px;
+  background: url(./Images/bgimage7.jpg);
+  background-position: 0 -360px;
+  background-attachment: fixed;
+  background-size: cover;
+  color: #fff;
+  background-repeat: no-repeat;
+  border-bottom: 1px #eee solid;
+  padding-top: 50px;
+}
+
+.about-img {
+  margin-top: -50px;
+}
+
+#faq .card {
+  border: #444;
+}
+
+#faq a {
+  color: #fff;
+  text-decoration: none;
+}
+
+#faq .card-body,
+#faq .card-header {
+  background: #333;
+}
+
+#main-footer {
+  background: #000;
+  color: #fff;
+}
